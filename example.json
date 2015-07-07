@@ -1,16 +1,15 @@
 { 
 "wallpapers": 
-	[ 
-		{
-			"author": "Junkdruggler",
-			"url": "https://raw.githubusercontent.com/junkdruggler/Wallpapers/master/wallpapers/clouds.jpg",
-			"name": "Clouds"
-		},
-		{
-			"author": "Junkdruggler",
-			"url": "https://raw.githubusercontent.com/junkdruggler/Wallpapers/master/wallpapers/sky.jpg",
-			"name": "Sky"
-		}
-		
-	]
+[ 
+{
+"author": "Junkdruggler",
+"url": "https://raw.githubusercontent.com/junkdruggler/Wallpapers/master/wallpapers/clouds.jpg",
+"name": "Clouds"
+},
+{
+"author": "Junkdruggler",
+"url": "https://raw.githubusercontent.com/junkdruggler/Wallpapers/master/wallpapers/sky.jpg",
+"name": "Sky"
+}
+]
 }
