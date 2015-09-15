@@ -1,0 +1,34 @@
+{ 
+"wallpapers": 
+[ 
+{
+"author": "Junkdruggler",
+"url": "https://raw.githubusercontent.com/junkdruggler/Wallpapers/master/wallpapers/Fourth.jpg",
+"name": "Fourth"
+},
+{
+"author": "Junkdruggler",
+"url": "https://raw.githubusercontent.com/junkdruggler/Wallpapers/master/wallpapers/mewwall2.jpg",
+"name": "Mew"
+},
+{
+"author": "Junkdruggler",
+"url": "https://raw.githubusercontent.com/junkdruggler/Wallpapers/master/wallpapers/pikachuwall2.jpg",
+"name": "Pikachu"
+},
+{
+"author": "Junkdruggler",
+"url": "https://raw.githubusercontent.com/junkdruggler/Wallpapers/master/wallpapers/back.jpg",
+"name": "Cook"
+},
+{
+"author": "Junkdruggler",
+"url": "https://raw.githubusercontent.com/junkdruggler/Wallpapers/master/wallpapers/clouds.jpg",
+"name": "Clouds"
+},{
+"author": "Junkdruggler",
+"url": "https://raw.githubusercontent.com/junkdruggler/Wallpapers/master/wallpapers/unplugg.jpg",
+"name": "Unplugg"
+}
+]
+}
